@@ -2,6 +2,12 @@
 
 ## Project Setup
 
+To install node_modules
+```sh
+npm install
+```
+
+Run project in local
 ```sh
 npx serve
 ```
